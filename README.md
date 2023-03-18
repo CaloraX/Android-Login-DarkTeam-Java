@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
- <img src="https://github.com/calorax/calorax/blob/main/repostastmakefile_1.jpg" />
+ <img src="https://github.com/calorax/calorax/blob/main/repostastmakefile_1.jpeg" />
 </p>
 
 <p align="center">
