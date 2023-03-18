@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
- <img src="https://github.com/calorax/calorax/blob/main/repostastmakefile_1.jpeg" />
+ <img src="https://github.com/calorax/calorax/blob/main/repostastmakefile_1.jpg" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 
 ❏  ```Example Login 02```
 <p align="center">
-  <a href="https://github.com/calorax/Android-Login-DarkTeam-Java"><img src="https://github.com/CaloraX/CaloraX/blob/main/ExampleLoginPicture/examplelogin_2.jpg" />
+  <a href="https://github.com/calorax/Android-Login-DarkTeam-Java"><img src="https://github.com/CaloraX/CaloraX/blob/main/ExampleLoginPicture/examplelogin_2.jpeg" />
 </p>
 
 ------
